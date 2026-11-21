@@ -11,3 +11,4 @@
 | 2026-11-21 | Analysis: gcd/near-neighbor stats on practice set | - | shared-gcd 0-2% per family; near-neighbor <=12%; gcd planner not supported |
 | 2026-11-21 | Review: depth-3 test corrected; full depth-5 test planned | - | Collaboration with ChatGPT identified a gap in the first meet-in-the-middle test |
 | 2026-11-21 | Complete depth-5 search on practice_0037 | - | 0 of 32 targets within 5 instructions of the start; independent targets must be built, not found |
+| 2026-11-21 | Signed-digit Horner (digits ±B/2, even bases) | 326870 | -12% vs 371,105 |
